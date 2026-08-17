@@ -1,4 +1,4 @@
-# AccurateMacro
+# AccurateMacro          ![Version](https://badgen.net/badge/version/1.0.0/blue) ![Python](https://badgen.net/badge/icon/python?icon=python&label&color=green) ![License](https://badgen.net/badge/license/MIT/red) ![Platform](https://badgen.net/badge/platform/Windows/cyan)
 
 Windows automation tool: autoclicker, AHK‑style recorder, macro editor, window management. Single EXE, no install.
 
