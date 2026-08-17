@@ -1,4 +1,3 @@
-https://badgen.net/github/license/micromatch/micromatch
 # AccurateMacro
 
 Windows automation tool: autoclicker, AHK‑style recorder, macro editor, window management. Single EXE, no install.
